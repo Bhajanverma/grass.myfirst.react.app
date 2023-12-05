@@ -1,0 +1,17 @@
+body{
+  margin: 0px;
+  padding: 0px;
+}
+.Form{
+  background-color: red;
+}
+
+
+.cardContainer{
+  display: flex;
+  flex-wrap: wrap;
+
+}
+
+
+
